@@ -1,6 +1,7 @@
 # Hi! I'm Gabriel Berthier :D
 
 I'm a fullstack developer who loves learning new technologies, programming using monospaced fonts, creating apps and making the difference while I find my place in this (not so little) world.
+<br />
 I am very appreciative of the programming languages PHP, Javascript/ECMAScript, Typescript, Python, C# and - please don't judge me for that - Java. 
 I've been developing frontend apps using Vue 3 and Stencil whenever I can, whilst PHP and Node.js are my backbone at the server side - although I'm working as a Pythonist Backend Developer nowadays [@Zappts](https://zappts.com/).
 
