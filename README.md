@@ -1,4 +1,4 @@
-# Hi! I'm Gabriel Berthier :D
+# Hi! I'm Gabriel Berthier :D <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm a fullstack developer who loves learning new technologies, programming using monospaced fonts, creating apps and making the difference while I find my place in this (not so little) world.
 <br />
