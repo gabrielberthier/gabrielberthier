@@ -15,4 +15,4 @@ I've been developing frontend apps using Vue 3 and Stencil whenever I can and on
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gabrielberthier&show_icons=true&theme=gotham" alt="Gabriel Berthier" />
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielberthier)](https://github.com/gabrielberthier/github-readme-stats)
