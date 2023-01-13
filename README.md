@@ -12,7 +12,7 @@ I've been developing frontend apps using Vue 3 and Stencil whenever I can and on
 ![Vue](https://img.shields.io/badge/-Vue.js-41BA82?style=flat&logoColor=fff&logo=vue.js)&nbsp;
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
-![Python]([https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Python]([https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white))&nbsp;
 
 <h1 align="center">A little about me</h1>
 <hr>
