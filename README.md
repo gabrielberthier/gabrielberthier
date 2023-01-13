@@ -16,3 +16,4 @@ I've been developing frontend apps using Vue 3 and Stencil whenever I can and on
 📈 my github stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gabrielberthier)](https://git.io/streak-stats)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
