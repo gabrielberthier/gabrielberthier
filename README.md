@@ -36,8 +36,7 @@ I've been developing frontend apps using Vue 3 and Stencil whenever I can and on
 - 💬 Ask me about 
 **Frontend, Web Components, Augmented Reality, JSON Pronounce**
 
-- 📫 How to reach me 
-- Mail: **http://iamgabrielberthier.com/**
+- 📫 How to reach me? Mail me: **http://iamgabrielberthier.com/**
 
 - 📄 Know about my experiences -> [here](https://www.iamgabrielberthier.com/docs/Curriculum%20-%20Gabriel%20Berthier%20-%20EN%202022.pdf)
 
