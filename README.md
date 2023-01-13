@@ -13,7 +13,8 @@ I've been developing frontend apps using Vue 3 and Stencil whenever I can and on
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
 
-<h1 align="center">Hello! Gabriel Berthier, that's me.</h1>
+<h1 align="center">A little about me</h1>
+<hr>
 <h3 align="center">A passionate software engineer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielberthier&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielberthier" /> </p>
@@ -32,13 +33,16 @@ I've been developing frontend apps using Vue 3 and Stencil whenever I can and on
 
 - 📝 I regularly write articles on [https://www.iamgabrielberthier.com/en-US/articles](https://www.iamgabrielberthier.com/en-US/articles)
 
-- 💬 Ask me about **Frontend, Web Components, Augmented Reality, JSON Pronounce**
+- 💬 Ask me about 
+**Frontend, Web Components, Augmented Reality, JSON Pronounce**
 
-- 📫 How to reach me **http://iamgabrielberthier.com/**
+- 📫 How to reach me 
+- Mail: **http://iamgabrielberthier.com/**
 
-- 📄 Know about my experiences [https://www.iamgabrielberthier.com/docs/Curriculum%20-%20Gabriel%20Berthier%20-%20EN%202022.pdf](https://www.iamgabrielberthier.com/docs/Curriculum%20-%20Gabriel%20Berthier%20-%20EN%202022.pdf)
+- 📄 Know about my experiences -> [here](https://www.iamgabrielberthier.com/docs/Curriculum%20-%20Gabriel%20Berthier%20-%20EN%202022.pdf)
 
-- ⚡ Hobbies **Currently really into literature and music composition. Fond of coffee, history channels and dad jokes.**
+- ⚡ Hobbies 
+**Currently really into literature and music composition. Fond of coffee, history channels and dad jokes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
