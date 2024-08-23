@@ -3,7 +3,7 @@
 I'm a fullstack developer who loves learning new technologies, programming using monospaced fonts, creating apps and making the difference while I find my place in this (not so little) world.
 <br />
 I have programming skills in the languages PHP, C, Javascript/ECMAScript, Typescript, Python, C#, Java and some others which I can't remember by heart or are not commercially used. Nowadays I've been applying  my technology knowledge in the Cloud as a way of living, creating and scaling microservices and highly available APIs using AWS, GCP and Azure.
-I've been developing frontend apps using Vue 3, Svelte and Stencil whenever I can and on the backend PHP and Node.js are my go-to options, although I'm working as a Pythonist Backend Developer nowadays at IBM - and loving it.
+I've been developing frontend apps using Vue 3, Svelte and Stencil whenever I can and on the backend PHP and Node.js are my go-to options, although I'm working as a Pythonist Backend Developer nowadays at [YDUQS](https://www.yduqs.com.br/default.aspx?linguagem=en) - and loving it.
 <br/>
 Feel free to contact me :D
 <br>
@@ -36,7 +36,7 @@ Feel free to contact me :D
 - 📝 I regularly write articles on [https://www.iamgabrielberthier.com/en-US/articles](https://www.iamgabrielberthier.com/en-US/articles)
 
 - 💬 Ask me about 
-**Frontend, Web Components, Augmented Reality, JSON Pronounce**
+**Frontend, Web Components, Augmented Reality, JSON Pronounce, Backend in general**
 
 - 📫 How to reach me? Mail me: **http://iamgabrielberthier.com/**
 
