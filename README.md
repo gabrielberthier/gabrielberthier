@@ -1,12 +1,6 @@
-# Hi! I'm Gabriel Berthier :D <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi! I'm Gabriel Berthier <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a fullstack developer who loves learning new technologies, programming using monospaced fonts, creating apps and making the difference while I find my place in this (not so little) world.
-<br />
-I have programming skills in the languages PHP, C, Javascript/ECMAScript, Typescript, Python, C#, Java and some others which I can't remember by heart or are not commercially used. Nowadays I've been applying  my technology knowledge in the Cloud as a way of living, creating and scaling microservices and highly available APIs using AWS, GCP and Azure.
-I've been developing frontend apps using Vue 3, Svelte and Stencil whenever I can and on the backend PHP and Node.js are my go-to options, although I'm working as a Pythonist Backend Developer nowadays at [YDUQS](https://www.yduqs.com.br/default.aspx?linguagem=en) - and loving it.
-<br/>
-Feel free to contact me :D
-<br>
+I'm a dynamic full-stack developer with a passion for learning and implementing technologies. With expertise in a wide array of programming languages, including PHP, C, JavaScript, TypeScript, Python, C#, and Java, I am experienced in both backend and frontend development. Currently working as a Senior Backend Developer - using Python and Node.js -, I excel in creating and scaling microservices and highly available APIs using AWS, GCP, and Azure. My work spans Augmented Reality, cloud apps, and modern frontend frameworks like Vue 3, React, Stencil.js and Svelte. I'm also an avid writer, coffee lover, and music composer, always eager to collaborate and share knowledge, so, feel free to contact me and check [my personal site](https://www.iamgabrielberthier.com/).
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
