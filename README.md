@@ -17,8 +17,6 @@ I'm a dynamic full-stack developer with a passion for learning and implementing 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielberthier" alt="gabrielberthier" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gabriberthier" target="blank"><img src="https://img.shields.io/twitter/follow/gabriberthier?logo=twitter&style=for-the-badge" alt="gabriberthier" /></a> </p>
-
 - 🔭 I’m currently working on **Augmented Reality, Cloud Apps and SvelteKit Frontends (sometimes using Stencil as well)**
 
 - 🌱 I’m currently learning **Azure, AWS and GCP clouds, but I'm also interested in Typescript, C# and PHP development :D**
